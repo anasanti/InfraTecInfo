@@ -58,3 +58,8 @@ Trabalho de Infra por Ana Santi!
 O package.json enconstrará as informações como nome, versão, autor e descrição.
 Já no package-lock.json encontrá as informações da aplicação node e suas dependências
 
+##Imagem
+
+Imagem no docker
+https://hub.docker.com/repository/docker/anasanti/nodejs-image
+
